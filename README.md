@@ -6,3 +6,4 @@ In laboratories I carried out the following topics:
 1. [Preliminaries](https://github.com/pvtrov/Geometric-Algorithms/tree/main/lab1) -> determinant in Geometry, Points classification against line
 2. [Convex Hull](https://github.com/pvtrov/Geometric-Algorithms/tree/main/lab2) -> realized with Graham and Jarvis algorithms
 3. [Triangulation of monotone polygon](https://github.com/pvtrov/Geometric-Algorithms/tree/main/lab3)
+4. [Lines Intersection](https://github.com/pvtrov/Geometric-Algorithms/tree/main/lab4) -> realizes with Sweeping algorithm
